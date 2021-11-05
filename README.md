@@ -1,9 +1,6 @@
 # BumpCord
 A code that Bumps your Discord SERVER automatically [unlimited times] - no need to type manually
 
-# BumpCord
-A code that can make an account bump your discord server 24/7!
-
 ----
 
 
