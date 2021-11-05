@@ -5,8 +5,6 @@ A code that Bumps your Discord SERVER automatically [unlimited times] - no need 
 
 
 
-----
-
 This Code is from [this tutorial](https://youtu.be/TfZcXMWyw4s). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
